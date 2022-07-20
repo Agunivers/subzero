@@ -10,7 +10,7 @@
     
     
 # TrickyAbhi-Bot
-OMFO Gimme a star and follow me
+OMFO Gimme a star and follow me ! 
     
     
 ### Noob Developers 
